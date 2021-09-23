@@ -1,0 +1,16 @@
+{
+	"name": "Tauri",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"context": ".."
+	},
+	"extensions": [
+		"visualstudioexptteam.vscodeintellicode",
+		"editorconfig.editorconfig",
+		"vscodevim.vim",
+		"VSpaceCode.vspacecode",
+		"tauri-apps.tauri-vscode",
+		"octref.vetur",
+		"rust-lang.rust"
+	]
+}

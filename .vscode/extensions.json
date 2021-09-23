@@ -1,0 +1,10 @@
+
+{
+	"recommendations": [
+		"visualstudioexptteam.vscodeintellicode",
+		"editorconfig.editorconfig",
+		"vscodevim.vim",
+		"VSpaceCode.vspacecode",
+		"tauri-apps.tauri-vscode"
+	]
+}
